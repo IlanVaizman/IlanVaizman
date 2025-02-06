@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on automation for ERP/CRM system based on role permissions.<br>🌱 I’m currently learning data structures for better testing design and efficiency.<br>💬 Ask me about playwright/selenium.<br>⚡ Fun fact: I served in the IDF as a QA and was responsible for manual and automation testing.<br><br><br><br><br><br><br><br>
+🔭 I’m currently working on automation for ERP/CRM system based on role permissions.<br>🌱 I’m currently learning data structures for better testing design and efficiency.<br>💬 Ask me about playwright/selenium.<br>⚡ Fun fact: I served in the IDF as a QA and was responsible for manual and automation testing.<br>
 
 
 ## 🌐 Socials:
